@@ -18,8 +18,4 @@ Notebookai:
 Visuose naudojamas tas pats chronologinis skaidymas, baseline ir metrikos.
 
 
-Is pradziu reikia prie pliusuko paspausti varnele, pasirinkti GIT BASH, tada kai atsidarys nauja konsole, pirmu numeriu ivesti šia komanda:
-source .prognoze_eksperimentas_26/Scripts/activate
-ivedus, turi atsirasti toks parasymas (.prognoze_eksperimentas_26)
-Tuomet kita komanda:
-jupyter notebook
+
